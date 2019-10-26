@@ -9,7 +9,7 @@ def cleanse(path):
     os.makedirs(path)
 
 cleanse_list = [ '/path/to/file/directory',
-	 '/path/to/secondary/file/directory]
+	 '/path/to/secondary/file/directory']
 
 
 try:
