@@ -8,8 +8,8 @@ def cleanse(path):
     print(f"Making new directory {path}....")
     os.makedirs(path)
 
-cleanse_list = [ '/home/justin/Desktop/test/test_1',
-	 '/home/justin/Desktop/test/tests']
+cleanse_list = [ '/path/to/file/directory',
+	 '/path/to/secondary/file/directory]
 
 
 try:
